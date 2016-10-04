@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoballeste/AndroidStudioProjects/Popular-Movies-Stage-1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="464684176a6d732f93f3b6ad6a6830731cad96ec">
+        <dex dex="/Users/gustavoballeste/AndroidStudioProjects/Popular-Movies-Stage-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2ffa84366d96afdc83d7a1e0976ff37ea45fe947/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoballeste/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/gustavoballeste/AndroidStudioProjects/Popular-Movies-Stage-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_99d503ea16cd2c67d291d31a759c90c6b317c30a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoballeste/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/gustavoballeste/AndroidStudioProjects/Popular-Movies-Stage-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_f71081af8af0e67ce8a9c898057b657cbf0d784b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoballeste/AndroidStudioProjects/Popular-Movies-Stage-1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6a4b92465aef48a8703d5f9c03d6046336f8626d">
+        <dex dex="/Users/gustavoballeste/AndroidStudioProjects/Popular-Movies-Stage-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_17afbdca8ad58a0a99d8b0b2b1672ed735c5d1bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoballeste/AndroidStudioProjects/Popular-Movies-Stage-1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/gustavoballeste/AndroidStudioProjects/Popular-Movies-Stage-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_3224e9ac1878c8dcc911b0f1d824d9d369413a45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoballeste/AndroidStudioProjects/Popular-Movies-Stage-1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/gustavoballeste/AndroidStudioProjects/Popular-Movies-Stage-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_591a059007ec836d26a1a1df033b9e9fbd213513/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gustavoballeste/AndroidStudioProjects/Popular-Movies-Stage-1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/gustavoballeste/AndroidStudioProjects/Popular-Movies-Stage-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_e5eaae59c02693abc960d8cf0348c2132b064d50/classes.dex" />
+    </item>
+
+</items>
